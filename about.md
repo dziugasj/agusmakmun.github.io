@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+TODO add description about me
 
-email: agus[at]python.web.id
+email: dziugasj[at]gmail.com
